@@ -12,8 +12,8 @@ h2{
     text-align: center;
 }
 .Navigation{
-    display: absolute;
-    position:relative;
+    display: block;
+    position:fixed;
     z-index: 3;
     float: right;
     top:5%;
