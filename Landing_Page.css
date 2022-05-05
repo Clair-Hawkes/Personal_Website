@@ -22,6 +22,7 @@ body{
     border-color:#f0dd9f;
 }
 .Navigation{
+    z-index: 3;
     position:relative;
     float: right;
     top:5%;
